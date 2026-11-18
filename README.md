@@ -37,7 +37,7 @@ I build LLM applications end to end: multi-agent workflows, tool use and MCP, ev
 
 ## 🎓 Certifications
 
-**Highlights**
+### Highlights
 
 | Certification | Issuer |
 |---|---|
@@ -47,10 +47,9 @@ I build LLM applications end to end: multi-agent workflows, tool use and MCP, ev
 | [Building AI Agents with MongoDB](https://www.credly.com/earner/earned/badge/296a8ce8-7d06-48c4-bd97-7192e13e10b1) | MongoDB |
 | [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/rq8ocoqsfmyh) | Anthropic |
 
-<details>
-<summary><b>All certifications (23)</b></summary>
+### All certifications (23)
 
-**Agentic AI, LLMs & RAG**
+#### Agentic AI, LLMs & RAG
 
 | Certification | Issuer | Year |
 |---|---|---|
@@ -67,16 +66,14 @@ I build LLM applications end to end: multi-agent workflows, tool use and MCP, ev
 | [Preparing Your Organization for AI Agents](https://www.linkedin.com/learning/certificates/0f3c877d76c4de27f4bf3d80f4c12508cd75ad145394a32db413ee3aa366c7f9/) | LinkedIn Learning | 2026 |
 | [Responsible AI: Principles and Practical Applications](https://www.linkedin.com/learning/certificates/b499f656cc7d2c9e07e34857e344f6a929d2bbafdb7ba3300c721230ccb82df1/) | LinkedIn Learning | 2026 |
 
-
-**Machine learning**
+#### Machine learning
 
 | Certification | Issuer | Year |
 |---|---|---|
 | [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BVJNRSL9BZN2)<br><sub>includes [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/records/9UV6TJMJCPRB), [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/VNZJ3PU7X8QM), and [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/FGKYZUF0R68Y)</sub> | DeepLearning.AI | 2026 |
 | [Machine Learning in Production](https://www.coursera.org/account/accomplishments/records/7QLSX4NJWQY2) | DeepLearning.AI | 2026 |
 
-
-**MLOps & deployment**
+#### MLOps & deployment
 
 | Certification | Issuer | Year |
 |---|---|---|
@@ -84,17 +81,13 @@ I build LLM applications end to end: multi-agent workflows, tool use and MCP, ev
 | [MLOps Essentials: Model Development and Integration](https://www.linkedin.com/learning/certificates/5b97a38bf83672964ae11a4a1bb25b74f47b2582080d5af53fcea19a80ad17e3/) | LinkedIn Learning | 2026 |
 | [ML Deployment Using FastAPI, Docker, CI/CD, and Cloud Platforms](https://www.udemy.com/certificate/UC-d7867201-5159-40d0-9410-a2af48eeb34c/) | Udemy | 2026 |
 
-
-**Data & leadership**
+#### Data & leadership
 
 | Certification | Issuer | Year |
 |---|---|---|
 | [Data Analytics for Business Professionals](https://www.linkedin.com/learning/certificates/eaa90eb3d3494bf98489a67ba9a09e0cfd4ced65b68018854e67ac903e23edd1/) | LinkedIn Learning | 2026 |
 | [Python Web Scraping: Data Extraction with Beautiful Soup](https://www.udemy.com/certificate/UC-4df10124-f143-43d9-b331-afb62fd34169/) | Udemy | 2026 |
 | [AI-Enhanced Leadership Development and Self-Coaching for Managers](https://www.linkedin.com/learning/certificates/75b750ab3c895b9c65c560fe8a454dc979f6ba1d7ea9f65c92ea425321263145/) | LinkedIn Learning | 2026 |
-
-
-</details>
 
 ## 🏆 Recognition
 
